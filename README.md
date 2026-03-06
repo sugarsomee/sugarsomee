@@ -13,11 +13,7 @@
 
 ## 🎧 Spotify
 
-<p align="center">
-<a href="https://open.spotify.com/user/31ulypyotn4gtzobgqsw3cficgsm">
-<img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-</a>
-</p>
+[![Spotify](https://img.shields.io/badge/Spotify-Open%20Profile-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/31ulypyotn4gtzobgqsw3cficgsm)
 
 ---
 
