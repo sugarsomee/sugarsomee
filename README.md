@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Soumya</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sugarsomee&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soumyaa1110/)
