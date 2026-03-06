@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soumya</h1>
+<h1 align="center">Hey, I'm Soumya 🎀 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sugarsomee&label=Profile%20views&color=0e75b6&style=flat"/>
