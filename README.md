@@ -13,7 +13,9 @@
 
 ## 🎧 Spotify
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ulypyotn4gtzobgqsw3cficgsm&count=10)
+<p align="center">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ulypyotn4gtzobgqsw3cficgsm&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117" width="500"/>
+</p>
 
 ---
 
