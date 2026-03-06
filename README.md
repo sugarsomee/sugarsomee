@@ -62,9 +62,3 @@
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sugarsomee&theme=tokyo-night)
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sugarsomee&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</p>
