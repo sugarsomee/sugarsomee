@@ -1,7 +1,8 @@
 <h1 align="center">Hey, I'm Soumya 🎀 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sugarsomee&label=Profile%20views&color=0e75b6&style=flat"/>
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=sugarsomee&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge"/>
+</h2>
 </p>
 
 ## 🌐 Socials
