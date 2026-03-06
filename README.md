@@ -14,7 +14,9 @@
 ## 🎧 Spotify
 
 <p align="center">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ulypyotn4gtzobgqsw3cficgsm&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117" width="500"/>
+<a href="https://open.spotify.com/user/31ulypyotn4gtzobgqsw3cficgsm">
+<img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
 </p>
 
 ---
