@@ -59,6 +59,10 @@
 
 </p>
 
+---
+
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sugarsomee&theme=tokyo-night)
+
+---
