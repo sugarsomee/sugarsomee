@@ -39,15 +39,15 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sugarsomee&show_icons=true&theme=tokyonight)
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sugarsomee&theme=tokyonight)
 
 ---
 
