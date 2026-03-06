@@ -61,3 +61,5 @@
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sugarsomee&theme=tokyo-night)
+
+![](https://komarev.com/ghpvc/?username=sugarsomee&label=Profile%20Views&color=0e75b6&style=flat)
