@@ -53,9 +53,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sugarsomee&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=soumyayyy&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=sugarsomee&theme=tokyonight" height="170"/>
+<img src="https://streak-stats.demolab.com?user=soumyayyy&theme=tokyonight" height="170"/>
 
 </p>
 
@@ -63,6 +63,6 @@
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sugarsomee&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=soumyayyy&theme=tokyo-night)
 
 ---
